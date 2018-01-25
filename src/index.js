@@ -9,7 +9,6 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
-  <img alt src={logo}/>
     <h2>Welcome to bitpod </h2>
     <h2>React site webdeploy</h2>
   </div>
