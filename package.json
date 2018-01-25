@@ -2,8 +2,8 @@
   "name": "cra-site-webdeploy",
   "description": "",
   "version": "0.0.1",
-  "homepage": "https://app002-ohxyu.pd.bitpod.io/ui/ssdd",
-  
+  "homepage": "https://app003sjolc.pd.bitpod.io/ui/testbitpod",
+
   "dependencies": {
     "react-dom": "16.0.0",
     "react": "16.0.0"
