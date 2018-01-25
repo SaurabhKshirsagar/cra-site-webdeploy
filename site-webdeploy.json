@@ -5,7 +5,7 @@
   "instanceId": "Sy3es-DBf",
   "siteId": "H1c3efDrM",
   "schemaVersion": "0.1",
-  "deployPath": "/deploy",
+  "deployPath": "/build",
    "bitpodapiURL": "https://pd.bitpod.io/api",
   "routes": [
     {
